@@ -64,7 +64,7 @@ backend/functions # Cloud Functions scale-up path (TypeScript, verified)
 ## 👤 Author
 
 **Md Parvej Ansari** — B.E. Computer Science & Engineering (2023–2027)
-- GitHub: [@mdparvej](https://github.com/mdparvej)
+- GitHub: https://github.com/parvejansari80708-sketch
 - LinkedIn: https://www.linkedin.com/in/md-parvej-ansari-908a972a3
 
 Built as a final-year-grade project: spec → interactive prototype → production Expo app with real on-device AI.
